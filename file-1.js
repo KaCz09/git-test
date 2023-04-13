@@ -9,7 +9,7 @@ function testJS() {
     function newFunction() {
         let b = 2;
         let c = 3;
-        let d = 4;
+        let d = 444444;
     }
 
     function color() {
